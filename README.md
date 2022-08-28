@@ -1,5 +1,5 @@
 ![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Aman</h1>
+<h1 align="center">Hi I'm Aman <img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="30" height="30"> </h1>
 <h3 align="center">A programmer for fun.</h3>
 <img align="right" alt="Coding" width="400"src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
