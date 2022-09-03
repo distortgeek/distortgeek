@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:<img src="https://imgur.com/LLlC8Jx.png" width="52" height="50" > </h3>
 <p align="left">
-<a href="https://instagram.com/iaman.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaman.io" height="30" width="40" /></a>
+<a href="https://instagram.com/distortgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaman.io" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/distortgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="distortgeek" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@distortgeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@distortgeek" height="30" width="40" /></a>
 </p>
