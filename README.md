@@ -9,7 +9,7 @@
 I’m currently learning **Mern Stack and Figma**
 
 
-<h3 align="left">Connect with me:<img src="https://imgur.com/LLlC8Jx.png" width="52" height="50" > </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/distortgeek" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/twitter--v1.png" alt="twitter--v1"/></a>
 <a href="https://instagram.com/distortgeek" target="_blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/></a>
